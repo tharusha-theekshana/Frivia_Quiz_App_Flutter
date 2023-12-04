@@ -27,7 +27,18 @@ class _HomePageState extends State<HomePage> {
   static String jsonStr = '''
   [
     {"name": "General Knowledge" , "value" : 9 },
-    {"name": "Entertainment: Films" , "value" : 11 }
+    {"name": "Entertainment: Books" , "value" : 10 },
+    {"name": "Entertainment: Films" , "value" : 11 },
+    {"name": "Entertainment: Music" , "value" : 12 },
+    {"name": "Entertainment: Video Games" , "value" : 15 },
+    {"name": "Entertainment: Cartoons" , "value" : 32 },
+    {"name": "Science and Nature" , "value" : 17 },
+    {"name": "Vehicles" , "value" : 28 },
+    {"name": "Animals" , "value" : 27 },
+    {"name": "Politics" , "value" : 24 },
+    {"name": "History" , "value" : 23 },
+    {"name": "Sports" , "value" : 21 },
+    {"name": "Art" , "value" : 25 }
   ]
   ''';
 
